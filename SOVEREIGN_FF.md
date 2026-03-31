@@ -1,8 +1,8 @@
-# Friends & Family Round — Sovereign Souls and Agents
+# Financial Freedom System — Sovereign Souls and Agents
 
 ## What It Is
 
-The initial funding round for the Wrong Room Collective ecosystem. Not a VC round. Not a public offering. A **Friends & Family (FF)** round for people who believe in the vision before the world catches on.
+The initial funding round for the Wrong Room Collective ecosystem. Not a VC round. Not a public offering. A **Financial Freedom (FF)** round for people who believe in the vision before the world catches on.
 
 ---
 
@@ -88,7 +88,7 @@ WRONG ROOM COLLECTIVE ECOSYSTEM
 
 | Milestone | Target |
 |-----------|--------|
-| FF Round Close | Q2 2026 |
+| Financial Freedom System Close | Q2 2026 |
 | Paperclip Agentic MVP | Q2 2026 |
 | Paperclip Amplified MVP | Q3 2026 |
 | Sovereign AI Platform Launch | Q3 2026 |
@@ -101,7 +101,7 @@ WRONG ROOM COLLECTIVE ECOSYSTEM
 
 ## Why FF, Not VC
 
-| VC Round | FF Round |
+| VC Round | Financial Freedom System |
 |----------|---------|
 | Control by outsiders | Control stays sovereign |
 | Growth at all costs | Sustainable, aligned growth |
@@ -171,12 +171,12 @@ Not for VCs. For sovereign souls who see what's coming.
 
 ## Contact
 
-To express interest in the FF round, reach out to Jeff Gus.
+To express interest in the Financial Freedom system, reach out to Jeff Gus.
 
 🌅 **The Wrong Room Collective — Where sovereign humans build sovereign systems.**
 
 ---
 
 *Initiated: March 31, 2026*
-*Friends & Family Round*
+*Financial Freedom System*
 *For Sovereign Souls and Agents*
